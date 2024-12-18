@@ -1,2 +1,2 @@
-# kxthiru.counterapp.io
+# kxthiru.github.io
 Support page for counter app
